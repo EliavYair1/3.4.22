@@ -1,0 +1,5 @@
+tr {
+  border: 1px solid rgb(255, 68, 68);
+  text-transform: capitalize;
+  width: 33%;
+}

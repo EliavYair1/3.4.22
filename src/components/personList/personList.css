@@ -1,0 +1,25 @@
+table {
+  width: 100vw;
+  margin: 64px 0 0;
+}
+
+thead {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  color: black;
+}
+
+tbody {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+
+  text-align: center;
+}
+th {
+  border: 1px solid rgb(255, 68, 68);
+  width: 33%;
+  text-transform: capitalize;
+}

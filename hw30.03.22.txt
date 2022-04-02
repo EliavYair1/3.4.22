@@ -1,0 +1,8 @@
+
+// create react project
+// clean files
+// create header components that show a website header with you name
+// create a person component which includes person name ,city, and gender
+// create a person list component which contains 3 persons
+
+
