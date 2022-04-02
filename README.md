@@ -8,7 +8,8 @@ In the project directory, you can run:
 
 ### `npm start`
 
-get inside the project folder by typing : cd <project-name>
+get inside the project folder by typing : cd "project-name"
+
 and then to initial the project type: npm start.
 
 Runs the app in the development mode.\
